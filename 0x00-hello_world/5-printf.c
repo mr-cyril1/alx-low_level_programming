@@ -1,14 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - main is the first call after header
+ * main - main is themain function
  *
- *  Return: Always returns the entire code to 0 
+ * Return: Returns the code to 0 in a new li s
  */
 
 int main(void)
 {
- printf("with proper grammer,but the outcome is a piece of art,");
- return(0);   
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
-
