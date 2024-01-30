@@ -5,10 +5,10 @@
 #include <stdio.h>
 
 /**
- *  more headers goes there 
-* main - the main function before starting to run the code
-* Return: Returns the code to 0 after execution 
-*/
+ * main - the main function before starting to run the code
+ *
+ * Return: Returns the code to 0 after execution
+ */
 int main(void)
 {
 	int n;
