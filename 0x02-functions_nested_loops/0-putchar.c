@@ -2,7 +2,7 @@
 
 /**
  * main - the first fun tion call
- * Return: Always (success)
+ * Return: Always (0)
  */
 
 int main(void)
